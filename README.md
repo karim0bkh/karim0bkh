@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karim0bkh
-- 👀 I’m interested in Blockchain and Web-Dev
+- 👀 I’m interested in Blockchain , Web-Dev and machine learning
 - 🌱 I’m currently learning Web3.0 technologies 
 - 💞️ I’m looking to collaborate on Blockchain and smart contracts projects
-- 📫 How to reach me @ karim.bkh19@gmail.com
+- 📫 How to reach me @ karim.bkh19@gmail.com / whatsapp +21655136370
