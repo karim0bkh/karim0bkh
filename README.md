@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karim0bkh
 - 👀 I’m interested in Blockchain, Data Science, and Machine Learning
 - 🌱 I’m currently learning Reinforcement learning 
-- 💞️ I’m looking to collaborate on Blockchain and Data science projects
-- 📫 How to reach me @ karim.bkh19@gmail.com / +21655066776
+- 💞️ I’m looking to collaborate on AI and Data science projects
+- 📫 How to reach me @ karim.benkhaledd@gmail.com / +33 06 51 53 85 92
